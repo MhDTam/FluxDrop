@@ -1,0 +1,19 @@
+Copyright (c) 2026 MhDTam. All rights reserved.
+
+The FluxDrop binaries published in this repository are provided free of charge for
+personal use. You may:
+
+  - download, install and use them on your own devices;
+  - share the unmodified files with others, provided this notice travels with them.
+
+You may not:
+
+  - modify, repackage or rebrand the files;
+  - sell them or bundle them into a commercial product;
+  - claim authorship of the software or its design.
+
+The source code is not published and is not licensed for reuse.
+
+The software is provided "as is", without warranty of any kind, express or implied.
+Bundled third-party notices: ZXing (Apache-2.0) and the Thmanyah Sans font license,
+both shipped inside the Windows archive.
