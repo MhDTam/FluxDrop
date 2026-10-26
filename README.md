@@ -2,6 +2,10 @@
 
 Direct file sharing between your phone and a PC over the same local Wi-Fi network — no account, no cloud, no file size limits.
 
+## Screenshot | لقطة شاشة
+
+![FluxDrop for Windows — main interface](docs/screenshots/fluxdrop-windows-home.png)
+
 ## Downloads — Windows
 
 | File | Notes |
