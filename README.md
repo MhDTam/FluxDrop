@@ -4,7 +4,7 @@ Direct file sharing between your phone and a PC over the same local Wi-Fi networ
 
 ## Screenshot | لقطة شاشة
 
-![FluxDrop for Windows — main interface](docs/screenshots/fluxdrop-windows-home.png)
+![FluxDrop for Windows v1.0.0 — main interface](docs/screenshots/fluxdrop-windows-v1.0.0.png)
 
 ## Downloads — Windows
 
